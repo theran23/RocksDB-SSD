@@ -32,7 +32,7 @@ KSC 논문: [파일시스템에 따른 RocksDB 성능 분석.pdf](https://github
 3. [RUN 스크립트](https://github.com/theran23/YCSB_RocksDB_filesystems/blob/main/scripts/run.sh)
 ---------------------------
 결과 스크립트
-(GNUPLOT 사용)
+(gnuplot)
 1. [PHYSICAL WAF](https://github.com/theran23/YCSB_RocksDB_filesystems/blob/main/log_scripts/micron.sh)
 2. [OPS](https://github.com/theran23/YCSB_RocksDB_filesystems/tree/main/log_scripts)
 3. [BTRACE](https://github.com/theran23/YCSB_RocksDB_filesystems/tree/main/log_scripts)
