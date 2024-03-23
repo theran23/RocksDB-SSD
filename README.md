@@ -1,7 +1,7 @@
-#### RocksDB_YCSB_F2FS/Ext4
+### RocksDB_YCSB_F2FS/Ext4
 2021 한국 정보과학회 논문경진대회 학부생 부문 우수상 
 
-KSC 출판 논문: [파일시스템에 따른 RocksDB 성능 분석.pdf](https://github.com/theran23/YCSB_RocksDB_filesystems/files/5745779/2020.KSC_._._full.pdf)
+[파일시스템에 따른 RocksDB 성능 분석.pdf](https://github.com/theran23/YCSB_RocksDB_filesystems/files/5745779/2020.KSC_._._full.pdf)
 
 저자: 김세란 
 지도교수님: S.W Lee / VLDB@SKKU
